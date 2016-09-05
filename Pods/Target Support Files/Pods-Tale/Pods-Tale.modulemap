@@ -1,0 +1,6 @@
+framework module Pods_Tale {
+  umbrella header "Pods-Tale-umbrella.h"
+
+  export *
+  module * { export * }
+}
